@@ -1,0 +1,36 @@
+table
+{
+ 
+  border-spacing: 20px;
+}
+.rectangle {
+  height: 50px;
+  width: 70px;
+  border:2px solid lawngreen;
+}
+.rectangle1 {
+  height: 50px;
+  width: 70px;
+  border:2px solid lawngreen;
+  border-radius: 5px;
+}
+.rectangle2 {
+  height: 50px;
+  width: 70px;
+  border:2px solid lawngreen;
+  border-radius: 10px;
+  
+}
+.oval {
+  height: 50px;
+  width: 70px;
+  border: 2px solid lawngreen;
+  border-radius: 50%;
+}
+.rectangle4 {
+  height: 50px;
+  width: 70px;
+  border: 2px solid lawngreen;
+  transform: skew(10deg);
+  border-radius: 5px 10px;
+}
